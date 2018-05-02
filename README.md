@@ -4,3 +4,4 @@ This repo contains the solution of Downloading for Developer Days.
 -------------------------------------------------------------------
 ## Участники:
 + Мурычева Наталья
++ Валерия Горячева
